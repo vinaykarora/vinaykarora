@@ -2,7 +2,7 @@
 
  **Vinay Arora**, a Lead Software Engineer based in Gurugram, Haryana specializing in building Web Applications, APIs and Desktop Application using (ASP).NET Core and related Stack with Clean & Microservice Architecture.
 
-- 💬 Ask me about C#, .NET, .NET Core, ASP.NET Core, Microservices, DevOps and Angular
+- 💬 Ask me about C#, .NET, .NET Core, ASP.NET Core, Microservices, Blazor, GraphQL, Terraform, DevOps and Angular
 - 🌎 [https://vinayaroratech.com](https://vinayaroratech.com)
 - 🔭 I'm currently working on Microservice Based Application
 - 🌱 I'm currently learning Automatation using Python
